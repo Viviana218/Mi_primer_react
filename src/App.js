@@ -5,7 +5,7 @@ class App extends React.Component {
     return(
       <div className="container">
         <h1> Hello Dojo!</h1>
-        <h1> Things I need to do: </h1>
+        <h2> Things I need to do: </h2>
         <ul>
           <li>Learn React</li>
           <li>Learn Python</li>
